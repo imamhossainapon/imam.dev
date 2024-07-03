@@ -5,3 +5,5 @@
 img{ height: 200px; width: 200px; background-size: contain;margin: 10px 250px; border-radius: 20%;}
 .mona{ height:200px; width: 500x;}
 .ih{ align-items: center; }button{ display: block;}
+span{ display:grid;}
+body{ display: grid;}
