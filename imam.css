@@ -1,5 +1,8 @@
-.imam1,.imam3,.imam5 { background-color: brown; color: azure; text-align: center; }
-.apon1{ border: 4px solid rgb(0, 255, 217); box-shadow: 10px 10px 10px; color: brown; margin: 40px; padding: 40px;}
+.imam1,.imam3 { background-color: brown; color: azure; text-align: center; }
+.apon1{ border: 4px solid rgb(0, 255, 217); box-shadow: 10px 10px 10px; color: brown; margin: 40px;
+    padding: 114px 0px; 
+    background-size: cover; background-repeat: no-repeat;box-shadow: 10px 20px 10px seagreen; padding: 0px 40px;background-image: url("448467598_1700073364137638_3152321355742617918_n.jpg"); 
+    background-repeat: no-repeat;} 
 .imam4{ color: aqua; font-size: x-large; font-family: Verdana, Geneva, Tahoma, sans-serif;}.apon2{ color: cadetblue; font-size: small; font-family: serif;}
 .imam6{ font-family: cursive; background-color: aqua; color: black; text-align: center;}
 img{ height: 200px; width: 200px; background-size: contain;margin: 10px 250px; border-radius: 20%;}
@@ -7,3 +10,7 @@ img{ height: 200px; width: 200px; background-size: contain;margin: 10px 250px; b
 .ih{ align-items: center; }button{ display: block;}
 span{ display:grid;}
 body{ display: grid;}
+.imam5{  font-size: medium; border: 3px solid rgb(10, 115, 71); color: hsl(32, 80%, 26%); background-color: aquamarine;}
+.imam4{ font-size: small;}
+.imam3{display: block; width: 200px; border: 4px solid salmon; text-align: center;}
+.imam2{ text-align: center;}
